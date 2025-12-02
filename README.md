@@ -19,7 +19,7 @@ C1 --> D[MZAR Laravel Backend API]
 C2 --> D
 C3 --> D
 
-%% API ENDPOINTS
+%% API ENDPOINTS (The corrected section)
 D --> E1[/api/tours]
 D --> E2[/api/availability]
 D --> E3[/api/book]
