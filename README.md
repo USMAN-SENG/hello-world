@@ -1,6 +1,7 @@
 # hello-world
 first repodterr
 
+```mermaid
 flowchart TD
 
 %% USER ENTRY POINTS
